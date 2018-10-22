@@ -12,3 +12,5 @@ Attach to the asterisk console:
 ```
 docker exec -it <container> /bin/bash
 ```
+
+You can find the default configuration files provided by Ubuntu packages.
